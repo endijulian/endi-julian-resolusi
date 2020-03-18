@@ -6,3 +6,4 @@ RENCANA KONTEN ENDI JULIAN
 -Latihan OOP_DASAR
 -Framework Javascript
  *vue js
+ *React
