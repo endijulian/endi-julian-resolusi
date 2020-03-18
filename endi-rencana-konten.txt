@@ -1,0 +1,5 @@
+RENCANA KONTEN ENDI JULIAN
+-Latihan CSS
+  *latihan dasar CSS
+  *latihan CSS Layouting
+-Latihan Javascript
