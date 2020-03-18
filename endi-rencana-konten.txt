@@ -3,7 +3,7 @@ RENCANA KONTEN ENDI JULIAN
   *latihan dasar CSS
   *latihan CSS Layouting
 -Latihan Javascript
- * Perulangan
- *Pengkondisian
--PHP Framework
- *Laravel
+-Latihan OOP_DASAR
+-Framework Javascript
+ *vue js
+ *React
